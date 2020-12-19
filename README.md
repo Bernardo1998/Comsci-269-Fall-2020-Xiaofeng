@@ -16,7 +16,7 @@ GraSP: https://github.com/alecwangcq/GraSP
 
 Usage: 
 
-0, Search for EB tickets
+0, Search and Create EB tickets
 ```
 python3 train_shallow_mnist.py -s 0.01 -w -b 512 -g --smtk 0 --save_subset --save-every 20 --save-dir 'output' --searching
 ```
